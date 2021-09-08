@@ -1,0 +1,12 @@
+** Story **
+Once upon a time, in a forest, there lives a monkey who resided on a berry tree, which was on a bank of a river. 
+In the same forest, there lived a Crocodile and his wife. One day, 
+the Crocodile came to the bank of the river and rested under the tree.
+The kind hearted monkey offered him some fruits.
+The Crocodile came back next day for more fruits, as he loved them.
+As days passed by, the Crocodile and the monkey became good friends.
+
+
+
+To generate the SSH key follow the steps below:- 1. To generate the SSH key use the command: ssh-keygen -t rsa -C "your@email.com" -b 4096 ( update your email id here ). 2. As a second step, you’ll be asked to provide a file path to save the key, just press enter key to move forward to the next step. 3. Then you’ll be asked to enter the passphrase. Use a strong password that you can remember
+4. Open your terminal and type the commands below: ● cat ~/.ssh/id_rsa.pub ● copy the SSH key
